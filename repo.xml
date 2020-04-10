@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/Anthony_Chmbt</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>My Website</name>
+			<url>https://anthonychambet.com/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
